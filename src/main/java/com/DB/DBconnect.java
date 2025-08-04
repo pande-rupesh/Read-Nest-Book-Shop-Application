@@ -13,7 +13,7 @@ public class DBconnect {
 	  try {
 		
 		  Class.forName("com.mysql.cj.jdbc.Driver");
-		  connection=DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/ebook", "root", "pande9096");
+		  connection=DriverManager.getConnection("url", "username", "password");
 	} catch (ClassNotFoundException e) {
 	e.printStackTrace();
 	}
