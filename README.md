@@ -37,6 +37,7 @@ An advanced Java-based web application for buying, selling, and managing books o
 > Screenshots are located in the `screenshots/` folder.
 
 ### 🔸 Home Page
+<img width="1914" height="949" alt="Screenshot 2025-08-04 172430" src="https://github.com/user-attachments/assets/2c789bd5-237e-4c32-9865-db52b81f893b" />
 
 ![Home Page](screenshots/homepage.png)
 
