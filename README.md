@@ -34,7 +34,6 @@ An advanced Java-based web application for buying, selling, and managing books o
 
 ## 🖼️ Project Screenshots
 
-> Screenshots are located in the `screenshots/` folder.
 
 ### 🔸 Home Page
 <img width="1914" height="949" alt="Screenshot 2025-08-04 172430" src="https://github.com/user-attachments/assets/2c789bd5-237e-4c32-9865-db52b81f893b" />
@@ -42,14 +41,17 @@ An advanced Java-based web application for buying, selling, and managing books o
 ![Home Page](screenshots/homepage.png)
 
 ### 🔸 Book Categories
+<img width="1917" height="880" alt="Screenshot 2025-08-04 172500" src="https://github.com/user-attachments/assets/60cb7101-b583-4487-94a8-f75dbb1aa4a9" />
 
 ![Book Categories](screenshots/categories.png)
 
 ### 🔸 Razorpay Payment
+<img width="1919" height="884" alt="Screenshot 2025-08-04 172556" src="https://github.com/user-attachments/assets/162f416f-4df2-4c76-92aa-c6b876ffa771" />
 
 ![Razorpay](screenshots/payment.png)
 
 ### 🔸 Admin Dashboard
+<img width="1919" height="880" alt="Screenshot 2025-08-04 172620" src="https://github.com/user-attachments/assets/eef01f9a-7f5b-4dfc-9727-027dbbaedc28" />
 
 ![Admin Dashboard](screenshots/admin.png)
 
