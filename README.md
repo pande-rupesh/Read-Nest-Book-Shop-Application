@@ -69,8 +69,11 @@ An advanced Java-based web application for buying, selling, and managing books o
    git clone https://github.com/yourusername/Read-Nest-Book-Shop-Application.git
 2. **Import into Eclipse (as a Dynamic Web Project)**
 3. **Set up the MySQL Database**
-   -Import the provided SQL dump (ebook.sql)
+   <br>
+    -Import the provided SQL dump (ebook.sql)
+   <br>
    -Update DB credentials in DBConnect.java
- 4. **Run on Apache Tomcat**
-      -Deploy the project  
+ 5. **Run on Apache Tomcat**
+    <br>
+    -Deploy the project  
 
