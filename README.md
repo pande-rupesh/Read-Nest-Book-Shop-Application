@@ -78,17 +78,11 @@ An advanced Java-based web application for buying, selling, and managing books o
     -Deploy the project
 
 ### 📌 Project Highlights
-      <br>
       🧾 Clean and layered architecture (MVC)
-      <br>
       📦 Functional eCommerce features
-      <br>
       🔐 Secure login system
-      <br>
       💵 Razorpay payment integration
-      <br>
       📊 Admin & User panels
-      <br>
       🖼️ Owl Carousel for enhanced UI
 
 ### 🙋‍♂️ Author
