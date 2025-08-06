@@ -200,7 +200,7 @@
             e.preventDefault(); // Stop default form submit
 
             var options = {
-                "key": "rzp_test_tXEC55kfkKYXoI", // Replace with your actual Razorpay key
+                "key": "*****", // Replace with your actual Razorpay key
                 "amount": <%=totalprice * 100%>, // Replace with dynamic amount (50000 paise = ₹500)
                 "currency": "INR",
                 "name": "BookStore Payment",
